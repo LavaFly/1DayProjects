@@ -1,2 +1,2 @@
-# bashscripts
-Collection of Bashscripts
+# 1DayProjects
+Collection of small Scripts and such.
